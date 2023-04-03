@@ -1,0 +1,23 @@
+body {
+    background-color: #eff5f8
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+  }
+  
+h3 {
+
+    text-align:left;
+    font-size: 30px;
+
+
+
+}
+
+.image {
+    height: 80px;
+    width: 80%;
+}
